@@ -1,0 +1,33 @@
+# Binaries and objects
+*.o
+*.a
+*.so
+*.dll
+*.d
+*.obj
+*.exe
+
+# Dependency directories
+vendor/
+
+# Temporary build files
+_obj/
+*.pb.go
+
+# IDE specific files
+.idea/
+*.sublime-workspace
+*.tags
+.tags
+
+# Profile data
+*.prof
+*.heap
+
+# Log files
+*.log
+
+# OS specific files
+.DS_Store
+._*
+Thumbs.db
